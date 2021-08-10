@@ -458,6 +458,7 @@ GameObject:
   - component: {fileID: 1373997770}
   - component: {fileID: 1373997769}
   - component: {fileID: 1373997772}
+  - component: {fileID: 1373997773}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -545,3 +546,16 @@ MonoBehaviour:
   textStr: Hermes Games Youtube Channel!
   text: {fileID: 1030328424}
   speed: 0.05
+--- !u!114 &1373997773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1373997768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8228cd4787b15d4583393acf9bfc893, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enumTypes: 0
